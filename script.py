@@ -30,6 +30,89 @@ def scrape_data_point():
         data_point = "" if target_element is None else target_element.text
         loguru.logger.info(f"Data point: {data_point}")
         return data_point
+    
+def scrape_featured_headlines() -> list:
+    """
+    Scrapes the (3) featured headlines from The Daily Pennsylvanian home page.
+    
+    Returns:
+        list[str]: A list of headlines if found, otherwise an empty list
+    """
+    
+    req = requests.get("https://www.thedp.com")
+    loguru.logger.info(f"Request URL: {req.url}")
+    loguru.logger.info(f"Request status code: {req.status_code}")
+    
+    if req.ok:
+        soup = bs4.BeautifulSoup(req.text, "html.parser")
+        target_divs = soup.findAll("div", class_="special-edition")
+        target_a_items = [item.find("a", class_="frontpage-link standard-link") for item in target_divs]
+        
+        formatted_titles = [str(a.text.strip()) for a in target_a_items]
+        return formatted_titles
+    else:
+        return []
+
+def scrape_most_recent_headlines() -> list:
+    """
+    Scrapes the (4-5) most reacent headlines from The Daily Pennsylvanian home page (as featured on the right-sidebar).
+    
+    Returns:
+        list[str]: A list of headlines if found, otherwise an empty list
+    """
+    
+    req = requests.get("https://www.thedp.com")
+    loguru.logger.info(f"Request URL: {req.url}")
+    loguru.logger.info(f"Request status code: {req.status_code}")
+    
+    if req.ok:
+        soup = bs4.BeautifulSoup(req.text, "html.parser")
+        target_div_items = soup.findAll("div", class_="story sidebar-story")
+        formatted_titles = [str(a.text.strip()) for a in target_div_items]
+        
+        return formatted_titles
+    else:
+        return []
+
+def scrape_social_media_links() -> dict:
+    """
+    Scrapes The Daily Pennsylvanian's Facebook, Instagram and Twitter social media links
+    
+    Returns:
+    dict[str]: A simple key value dictionary, where values are strings if links are found, empty dictionary otherwise
+    """
+    
+    req = requests.get("https://www.thedp.com")
+    loguru.logger.info(f"Request URL: {req.url}")
+    loguru.logger.info(f"Request status code: {req.status_code}")
+    
+    
+    if req.ok:
+        soup = bs4.BeautifulSoup(req.text, "html.parser")
+        target_ul = soup.find("ul", class_="social-icons")
+        target_li = target_ul.findAll("li")
+    
+        links = []
+    
+        for li in target_li:
+            target_a_ele = li.find("a")
+            
+            href = target_a_ele.get("href")
+            if href:   
+                links.append(target_a_ele.get("href"))
+        
+        formatted_output = {}
+        for link in links:
+            if "facebook.com" in link:   
+                formatted_output["facebook"] = link
+            elif "twitter.com" in link:
+                formatted_output["twitter"] = link
+            elif "instagram.com" in link:
+                formatted_output["instagram"] = link
+        
+        return formatted_output 
+    else:
+        return {}
 
 
 if __name__ == "__main__":
@@ -55,8 +138,12 @@ if __name__ == "__main__":
     loguru.logger.info("Starting scrape")
     try:
         data_point = scrape_data_point()
+        
+        feat_headlines = scrape_featured_headlines()
+        most_recent = scrape_most_recent_headlines()
+        social_media = scrape_social_media_links()
     except Exception as e:
-        loguru.logger.error(f"Failed to scrape data point: {e}")
+        loguru.logger.error(f"Failed to scrape some data point: {e}")
         data_point = None
 
     # Save data
@@ -64,6 +151,10 @@ if __name__ == "__main__":
         dem.add_today(data_point)
         dem.save()
         loguru.logger.info("Saved daily event monitor")
+    if feat_headlines is not None:
+        dem.add_today(feat_headlines)
+        dem.save()
+        loguru.logger.info("Saved featured headlines event monitor")
 
     def print_tree(directory, ignore_dirs=[".git", "__pycache__"]):
         loguru.logger.info(f"Printing tree of files/dirs at {directory}")
