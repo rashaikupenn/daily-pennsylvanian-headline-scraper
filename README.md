@@ -20,6 +20,17 @@ The workflow defined in `.github/workflows/scrape.yaml` runs on a defined schedu
 4. Run the python script `script.py` to scrape data
 5. Commit any updated data files to the Git repository
 
+## Changes Made (by Rayyan Shaik)
+
+In addition to the function "scrape_data_point()", which was provided, I have added 3 more scraping functions that gather separate pieces of information from The DP's website.
+1. scrape_featured_headlines() -> list
+2. scrape_most_recent_headlines() -> list
+3. scrape_social_media_links() -> dict
+
+All 3 of these functions scrape visible and available information. Using bs4, they all generally a parent element (usually a "div") and then iteratively check the text and links of that element's children. From there, said text and information is saved and processed. (For example, all of the social media icons reference hyperlinks to their respective platforms [e.g. instagram]. These icons are all children of a certain div container. With access to said container/element, we can then search for all links within them [which should only be the platform links]).
+
+After the data is scraped and processed, each function's output is individually written to the output ".json" file in the same manner as the "scrape_data_point()" function. The only difference is that I chose to store the ouputs of my function in a keyed dictionary for simpler lookups & referencing.
+
 ## Scheduling
 
 The workflow schedule is configured with [cron syntax](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule) to run:
