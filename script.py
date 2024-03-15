@@ -152,9 +152,17 @@ if __name__ == "__main__":
         dem.save()
         loguru.logger.info("Saved daily event monitor")
     if feat_headlines is not None:
-        dem.add_today(feat_headlines)
+        dem.add_today({"featured headlines" : feat_headlines})
         dem.save()
         loguru.logger.info("Saved featured headlines event monitor")
+    if most_recent is not None:
+        dem.add_today({"recent headlines" : most_recent})
+        dem.save()
+        loguru.logger.info("Saved most recent headlines event monitor")
+    if social_media is not None:
+        dem.add_today({"social media links" : social_media})
+        dem.save()
+        loguru.logger.info("Saved social media links event monitor")
 
     def print_tree(directory, ignore_dirs=[".git", "__pycache__"]):
         loguru.logger.info(f"Printing tree of files/dirs at {directory}")
