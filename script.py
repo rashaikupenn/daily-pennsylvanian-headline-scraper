@@ -143,8 +143,12 @@ if __name__ == "__main__":
         most_recent = scrape_most_recent_headlines()
         social_media = scrape_social_media_links()
     except Exception as e:
-        loguru.logger.error(f"Failed to scrape some data point: {e}")
+        loguru.logger.error(f"Issue when trying to scrape some data point: {e}")
         data_point = None
+        
+        feat_headlines = None
+        most_recent = None
+        social_media = None
 
     # Save data
     if data_point is not None:
