@@ -139,9 +139,20 @@ if __name__ == "__main__":
     try:
         data_point = scrape_data_point()
         
-        feat_headlines = scrape_featured_headlines()
-        most_recent = scrape_most_recent_headlines()
-        social_media = scrape_social_media_links()
+        try:
+            feat_headlines = scrape_featured_headlines()
+        except:
+            feat_headlines = None
+            
+        try:
+            most_recent = scrape_most_recent_headlines()
+        except:
+            most_recent = None
+        
+        try:
+            social_media = scrape_social_media_links()
+        except:
+            social_media = None
     except Exception as e:
         loguru.logger.error(f"Issue when trying to scrape some data point: {e}")
         data_point = None
@@ -169,6 +180,7 @@ if __name__ == "__main__":
         loguru.logger.info("Inserted social media links event monitor")
         
     dem.add_today(my_out)
+    print("OUT",my_out)
     dem.save()
     loguru.logger.info("Saved all scraped data")
 
