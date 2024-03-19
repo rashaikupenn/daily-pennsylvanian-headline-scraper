@@ -132,5 +132,32 @@
         ]
       }
     ]
+  ],
+  "2024-3-19": [
+    [
+      "2024-03-19 04:17PM",
+      "Wharton, Boys and Girls Clubs voice support for Penn Fight Night amid 'missing' donation backlash"
+    ],
+    [
+      "2024-03-19 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Wharton defends Fight Night amid student backlash",
+          "Quaker Nation | Ivy Madness ends with heartbreak",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "DP Daybreak | Wharton defends Fight Night amid student backlash",
+          "Wharton, Boys and Girls Clubs voice support for Penn Fight Night amid 'missing' donation backlash",
+          "Penn professor, five alumni sanctioned by Russian government",
+          "Five easy classes to take in the fall 2024 semester"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
