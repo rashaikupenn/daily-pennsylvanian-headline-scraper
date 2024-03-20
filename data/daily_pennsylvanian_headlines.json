@@ -159,5 +159,32 @@
         }
       }
     ]
+  ],
+  "2024-3-20": [
+    [
+      "2024-03-20 04:17PM",
+      "Demolition of University City Townhomes begins after delays, surprising community members"
+    ],
+    [
+      "2024-03-20 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | UC Townhomes demolition begins",
+          "Quaker Nation | Ivy Madness ends with heartbreak",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "DP Daybreak | UC Townhomes demolition begins",
+          "'A badge of honor': Penn professor Mitchell Orenstein reflects on Russian sanction, policy research",
+          "Carl June, first year Emily Whitehead reflect on experiences with Penn-pioneered cancer treatment",
+          "Penn track and field sees three coaches recognized in the Mid-Atlantic Region"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
