@@ -186,5 +186,28 @@
         }
       }
     ]
+  ],
+  "2024-3-21": [
+    [
+      "2024-03-21 04:17PM",
+      "University investigating pro-Palestinian student group Penn Against the Occupation"
+    ],
+    [
+      "2024-03-21 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn investigating pro-Palestinian student group",
+          "Advance Registration Guide Fall 2024",
+          "Quaker Nation | Ivy Madness ends with heartbreak",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Vaulting against the odds: How Scott Toney overcame loss and injuries to become an Ivy champion",
+          "Pulitzer Prize-winning author, physician Siddhartha Mukherjee named 2024 Commencement speaker",
+          "Kaynath Chowdhury | I am pro-ChatGPT",
+          "DP Daybreak | Penn investigating pro-Palestinian student group"
+        ]
+      }
+    ]
   ]
 }
