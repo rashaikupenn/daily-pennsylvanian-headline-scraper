@@ -260,5 +260,33 @@
         }
       }
     ]
+  ],
+  "2024-3-24": [
+    [
+      "2024-03-24 04:15PM",
+      "House committee challenging Penn tax-exempt status demands documents amid antisemitism investigation"
+    ],
+    [
+      "2024-03-24 04:15PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn investigating pro-Palestinian student group",
+          "Advance Registration Guide Fall 2024",
+          "Quaker Nation | Ivy Madness ends with heartbreak",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "No. 12 Penn men's lacrosse handles its business with 11-8 win against Dartmouth",
+          "Penn sophomore Nathaniel Gordon died March 23",
+          "Jessey Shin | Register NOW, submit by EOD: Seriously, what\u2019s the rush?",
+          "Franklin Li | Just another article on Penn Dining"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
