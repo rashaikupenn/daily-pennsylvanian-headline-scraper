@@ -288,5 +288,33 @@
         }
       }
     ]
+  ],
+  "2024-3-25": [
+    [
+      "2024-03-25 04:18PM",
+      "RA union files complaint against Penn, citing 'bad faith' negotiations, delays"
+    ],
+    [
+      "2024-03-25 04:18PM",
+      {
+        "featured_headlines": [
+          "Quaker Nation | Gymnastics completes the three-peat",
+          "DP Daybreak | RA union alleges Penn 'negotiating in bad faith'",
+          "Advance Registration Guide Fall 2024",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn men's and women's track and field gets outdoor season started with the Penn Challenge",
+          "No. 15 Penn women's lacrosse dominates No. 21 Harvard 18-8 in statement win",
+          "Quaker Nation | Gymnastics completes the three-peat",
+          "DP Daybreak | RA union alleges Penn 'negotiating in bad faith'"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
