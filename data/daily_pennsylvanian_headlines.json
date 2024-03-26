@@ -316,5 +316,33 @@
         }
       }
     ]
+  ],
+  "2024-3-26": [
+    [
+      "2024-03-26 04:17PM",
+      "RA union files complaint against Penn, citing 'bad faith' negotiations, delays"
+    ],
+    [
+      "2024-03-26 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Alumna wins $500K on 'Shark Tank'",
+          "Quaker Nation | Gymnastics completes the three-peat",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "Jack Lakis | Let\u2019s talk about writing seminars",
+          "Penn wrestling finishes in 37th at NCAA Championships",
+          "Penn fencing senior Bryce Louie makes history at 2024 NCAA Fencing Championships",
+          "DP Daybreak | Alumna wins $500K on 'Shark Tank'"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
