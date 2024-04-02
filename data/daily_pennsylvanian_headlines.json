@@ -344,5 +344,33 @@
         }
       }
     ]
+  ],
+  "2024-4-2": [
+    [
+      "2024-04-02 03:36PM",
+      "Iron Gate Theatre roof collapse prompts rescheduling, relocation of Penn student group performances"
+    ],
+    [
+      "2024-04-02 03:36PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Roof collapse at Iron Gate Theater",
+          "Quaker Nation | Gymnastics completes the three-peat",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "Penn swimming junior breaststroker Matt Fallon takes second at NCAA Championships",
+          "Win streak ends as Penn baseball swept by Columbia",
+          "Philadelphia mayor Cherelle Parker names three Penn alumni to serve on school board",
+          "Penn Medicine appoints first-ever vice dean for artificial intelligence and computing"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
