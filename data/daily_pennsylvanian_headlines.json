@@ -398,5 +398,33 @@
         }
       }
     ]
+  ],
+  "2024-4-3": [
+    [
+      "2024-04-03 04:19PM",
+      "\u2018They do the bare minimum\u2019: Penn students voice frustrations with off-campus landlords"
+    ],
+    [
+      "2024-04-03 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Students voice frustration with off-campus landlords",
+          "Quaker Nation | Penn baseball coach suspended",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "DP Daybreak | Students voice frustration with off-campus landlords",
+          "Wharton student co-founds nonprofit to build inclusivity, empathy among Philadelphia youth",
+          "Four Penn juniors win Goldwater Scholarship for up to two years of undergraduate study",
+          "Students launch Veil@Penn dating app offering anonymous matching process"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
