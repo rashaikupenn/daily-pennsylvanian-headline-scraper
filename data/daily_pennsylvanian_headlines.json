@@ -454,5 +454,28 @@
         }
       }
     ]
+  ],
+  "2024-4-5": [
+    [
+      "2024-04-05 04:17PM",
+      "4.8 magnitude earthquake in New Jersey shakes Penn campus, prompting alert"
+    ],
+    [
+      "2024-04-05 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Students criticize Penn's Ramadan food options",
+          "Quaker Nation | Penn baseball coach suspended",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "4.8 magnitude earthquake in New Jersey shakes Penn campus, prompting alert",
+          "DP Daybreak | Students criticize Penn's Ramadan food options",
+          "Iron Gate Theatre to reopen this weekend after Penn attributes closing to cracked beam",
+          "Protestors allege \u2018robotic dogs\u2019 produced by Penn spinout are involved in Israel-Hamas war"
+        ]
+      }
+    ]
   ]
 }
