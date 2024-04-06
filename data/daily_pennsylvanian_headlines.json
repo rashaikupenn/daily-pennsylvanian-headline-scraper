@@ -477,5 +477,33 @@
         ]
       }
     ]
+  ],
+  "2024-4-6": [
+    [
+      "2024-04-06 04:18PM",
+      "Muslim students criticize Penn\u2019s Ramadan food offerings, allege inaccessibility and unhealthiness"
+    ],
+    [
+      "2024-04-06 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Students criticize Penn's Ramadan food options",
+          "Quaker Nation | Penn baseball coach suspended",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "Mariana Martinez | Status update: In a toxic relationship with academia",
+          "4.8 magnitude earthquake in New Jersey shakes Penn campus, prompting alert",
+          "DP Daybreak | Students criticize Penn's Ramadan food options",
+          "Iron Gate Theatre to reopen this weekend after Penn attributes closing to cracked beam"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
