@@ -505,5 +505,33 @@
         }
       }
     ]
+  ],
+  "2024-4-7": [
+    [
+      "2024-04-07 04:16PM",
+      "Muslim students criticize Penn\u2019s Ramadan food offerings, allege inaccessibility and unhealthiness"
+    ],
+    [
+      "2024-04-07 04:16PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Students criticize Penn's Ramadan food options",
+          "Quaker Nation | Penn baseball coach suspended",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "Unpacking the best nicknames in Penn sports",
+          "No. 12 Penn men\u2019s lacrosse falls to No. 10 Yale to end perfect Ivy League record",
+          "Sangitha Aiyer | The post college application metamorphosis",
+          "Mariana Martinez | Status update: In a toxic relationship with academia"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
