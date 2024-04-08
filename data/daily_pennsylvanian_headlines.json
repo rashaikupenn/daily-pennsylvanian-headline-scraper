@@ -533,5 +533,33 @@
         }
       }
     ]
+  ],
+  "2024-4-8": [
+    [
+      "2024-04-08 04:19PM",
+      "Everything you need to know ahead of the biggest solar eclipse on Penn's campus in 40 years"
+    ],
+    [
+      "2024-04-08 04:19PM",
+      {
+        "featured_headlines": [
+          "Quaker Nation | Wrestling to see leadership change",
+          "DP Daybreak | Where to watch the solar eclipse at Penn",
+          "Submit your tip confidentially and securely to the DP",
+          "Advance Registration Guide Fall 2024"
+        ],
+        "recent_headlines": [
+          "Eliza Carroll | The cultural stratification of Penn",
+          "No. 7 Penn women\u2019s lacrosse falls to No. 16 Yale in demoralizing 16-8 loss",
+          "Quaker Nation | Wrestling to see leadership change",
+          "DP Daybreak | Where to watch the solar eclipse at Penn"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
