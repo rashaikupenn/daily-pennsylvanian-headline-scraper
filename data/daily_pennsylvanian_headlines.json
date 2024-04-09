@@ -561,5 +561,32 @@
         }
       }
     ]
+  ],
+  "2024-4-9": [
+    [
+      "2024-04-09 04:16PM",
+      "Thousands of Penn affiliates, interim president marvel at solar eclipse \u2014 despite clouds over campus"
+    ],
+    [
+      "2024-04-09 04:16PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Alumni call for stronger free speech protections",
+          "Quaker Nation | Wrestling to see leadership change",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "DP Daybreak | Alumni call for stronger free speech protections",
+          "Long-awaited trial to begin for suspected murderer of former Penn student Blaze Bernstein",
+          "Thousands of Penn affiliates, interim president marvel at solar eclipse \u2014 despite clouds over campus",
+          "Penn hosts five-day conference for environmental journalists on climate change, disinformation"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
