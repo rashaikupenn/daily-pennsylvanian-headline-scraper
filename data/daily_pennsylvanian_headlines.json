@@ -588,5 +588,27 @@
         }
       }
     ]
+  ],
+  "2024-4-10": [
+    [
+      "2024-04-10 04:17PM",
+      "Clark Slajchert of Penn men's basketball announces graduate transfer to USC"
+    ],
+    [
+      "2024-04-10 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Grocery prices around Penn",
+          "Quaker Nation | Wrestling to see leadership change",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Clark Slajchert of Penn men's basketball announces graduate transfer to USC",
+          "College of Arts and Sciences Dean Paul Sniegowski to leave Penn for Earlham College presidency",
+          "DP Daybreak | Grocery prices around Penn",
+          "Eric Najera | In defense of the humanities"
+        ]
+      }
+    ]
   ]
 }
