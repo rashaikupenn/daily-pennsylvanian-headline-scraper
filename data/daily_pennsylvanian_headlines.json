@@ -610,5 +610,32 @@
         ]
       }
     ]
+  ],
+  "2024-4-11": [
+    [
+      "2024-04-11 04:18PM",
+      "Penn's College of Arts and Sciences considering changes to sector, foundation, credit requirements"
+    ],
+    [
+      "2024-04-11 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | College considers revising curriculum structure",
+          "Quaker Nation | Wrestling to see leadership change",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Sheerr Pool renovations set to begin this July",
+          "Niheer Patel | Penn: Where dreams come to die",
+          "DP Daybreak | College considers revising curriculum structure"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
