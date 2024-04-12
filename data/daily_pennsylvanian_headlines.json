@@ -637,5 +637,33 @@
         }
       }
     ]
+  ],
+  "2024-4-12": [
+    [
+      "2024-04-12 04:16PM",
+      "Penn Fund donations down 21% from this time last year amid leadership crisis, donor backlash"
+    ],
+    [
+      "2024-04-12 04:16PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn Fund donations down 21%",
+          "Quaker Nation | Wrestling to see leadership change",
+          "Quaker Days 2024",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Mariana Martinez | Sexual assault: out of sight, out of mind?",
+          "College of Arts and Sciences announces guest and student speakers for 2024 graduation ceremony",
+          "Penn Carey Law ranks No. 4 on U.S. News ranking of best law schools for second year in a row"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
