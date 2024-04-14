@@ -693,5 +693,33 @@
         }
       }
     ]
+  ],
+  "2024-4-14": [
+    [
+      "2024-04-14 07:24PM",
+      "Penn Fund donations down 21% from this time last year amid leadership crisis, donor backlash"
+    ],
+    [
+      "2024-04-14 07:24PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn Fund donations down 21%",
+          "Quaker Nation | Wrestling to see leadership change",
+          "Quaker Days 2024",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Tyler Perkins of Penn men's basketball to transfer to Villanova",
+          "Penn men's lacrosse secures Ivy tournament berth with 15-12 win over Harvard",
+          "Mariana Martinez | Sexual assault: out of sight, out of mind?"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
