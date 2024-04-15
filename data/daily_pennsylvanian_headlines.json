@@ -721,5 +721,33 @@
         }
       }
     ]
+  ],
+  "2024-4-15": [
+    [
+      "2024-04-15 04:17PM",
+      "Penn looks for dismissal of \u2018McCarthyism\u2019 suit seeking to halt submission of documents to Congress"
+    ],
+    [
+      "2024-04-15 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn motions for 'McCarthyism' lawsuit dismissal",
+          "Quaker Nation | Wrestling to see leadership change",
+          "Quaker Days 2024",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "The 'Beacon': Junior heavyweight rower Sam Sullivan is driven by competition",
+          "Beaue Bernstein | The exam you will probably fail: climate literacy",
+          "DP Daybreak | Penn motions for 'McCarthyism' lawsuit dismissal"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
