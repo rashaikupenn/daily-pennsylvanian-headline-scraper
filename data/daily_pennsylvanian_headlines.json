@@ -749,5 +749,33 @@
         }
       }
     ]
+  ],
+  "2024-4-16": [
+    [
+      "2024-04-16 04:17PM",
+      "Behind the scenes of the \u2018holistic\u2019 process to match College first-years with pre-major advisors"
+    ],
+    [
+      "2024-04-16 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | How Penn matches pre-major advisors",
+          "Quaker Nation | Men's basketball guards transfer away",
+          "Quaker Days 2024",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Francesco Salamone | Please sit down and just exist",
+          "DP Daybreak | How Penn matches pre-major advisors",
+          "Behind the scenes of the \u2018holistic\u2019 process to match College first-years with pre-major advisors"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
