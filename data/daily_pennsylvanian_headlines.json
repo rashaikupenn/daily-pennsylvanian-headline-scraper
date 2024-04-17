@@ -777,5 +777,33 @@
         }
       }
     ]
+  ],
+  "2024-4-17": [
+    [
+      "2024-04-17 04:16PM",
+      "\u2018Folks are really riled up\u2019: Penn graduate student workers\u2019 union election rescheduled for May"
+    ],
+    [
+      "2024-04-17 04:16PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Graduate workers' union election rescheduled",
+          "Quaker Nation | Men's basketball guards transfer away",
+          "Quaker Days 2024",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Penn men's tennis splits its matches over the weekend against Yale and Brown",
+          "Two in a row: Penn women\u2019s golf wins second straight title at the Navy Spring Invite",
+          "DP Daybreak | Graduate workers' union election rescheduled"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
