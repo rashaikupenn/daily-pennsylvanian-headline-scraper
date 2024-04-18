@@ -805,5 +805,32 @@
         }
       }
     ]
+  ],
+  "2024-4-18": [
+    [
+      "2024-04-18 04:17PM",
+      "Four months after Magill\u2019s resignation, Penn yet to announce search for next president"
+    ],
+    [
+      "2024-04-18 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn yet to launch presidential search",
+          "Quaker Nation | Men's basketball guards transfer away",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Franklin Li | Forget about that class you did not get",
+          "DP Daybreak | Penn yet to launch presidential search",
+          "DP Daybreak | Penn yet to launch presidential search"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
