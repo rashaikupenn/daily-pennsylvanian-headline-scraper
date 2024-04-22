@@ -906,5 +906,32 @@
         ]
       }
     ]
+  ],
+  "2024-4-22": [
+    [
+      "2024-04-22 04:18PM",
+      "'Just shattered': Penn lightweight rowing accused of racism, prompting controversial University response"
+    ],
+    [
+      "2024-04-22 04:18PM",
+      {
+        "featured_headlines": [
+          "Quaker Nation | Racism allegations against lightweight rowing",
+          "DP Daybreak | Racism allegations against lightweight rowing",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Junior breaststroker Matt Fallon takes down TYR Pro Series record in San Antonio",
+          "Quaker Nation | Racism allegations against lightweight rowing",
+          "DP Daybreak | Racism allegations against lightweight rowing"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
