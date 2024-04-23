@@ -933,5 +933,32 @@
         }
       }
     ]
+  ],
+  "2024-4-23": [
+    [
+      "2024-04-23 04:17PM",
+      "Jameson outlines steps to support Penn community amid national campus unrest, start of Passover"
+    ],
+    [
+      "2024-04-23 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Today's primary elections, previewed",
+          "Quaker Nation | Racism allegations against lightweight rowing",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "DP Daybreak | Today's primary elections, previewed",
+          "Wharton's Venture Lab awards over $150,000 to student entrepreneur teams at annual Startup Challenge",
+          "A voter's guide to the April 2024 Pennsylvania primary elections"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
