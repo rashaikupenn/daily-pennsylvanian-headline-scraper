@@ -960,5 +960,33 @@
         }
       }
     ]
+  ],
+  "2024-4-24": [
+    [
+      "2024-04-24 04:17PM",
+      "Here are Pennsylvania's 2024 primary results \u2014 and how Penn differed from the rest of the state"
+    ],
+    [
+      "2024-04-24 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Biden wins 63.7% of primary votes at Penn",
+          "DP Daybreak | Today's primary elections, previewed",
+          "Quaker Nation | Racism allegations against lightweight rowing",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Meet DP Opinion's spring 2024 columnists",
+          "Mia Vesely | The commencement speaker is qualified and a excellent choice",
+          "Sose Hovannisian | Remember the Armenian Genocide of 1915 today",
+          "DP Daybreak | Biden wins 63.7% of primary votes at Penn"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
