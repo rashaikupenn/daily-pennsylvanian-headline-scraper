@@ -1057,5 +1057,33 @@
         ]
       }
     ]
+  ],
+  "2024-4-28": [
+    [
+      "2024-04-28 04:17PM",
+      "Penn's interim president, provost meet with organizers of pro-Palestinian encampment"
+    ],
+    [
+      "2024-04-28 04:17PM",
+      {
+        "featured_headlines": [
+          "The Penn policies and guidelines central to the pro-Palestinian encampment on College Green",
+          "Penn\u2019s Jewish community members express opposition to encampment amid split student perspectives",
+          "Inside the programming of the pro-Palestinian encampment on Penn's College Green",
+          "Penn calls on pro-Palestinian encampment to disband immediately, citing legal and policy violations"
+        ],
+        "recent_headlines": [
+          "Francesco Salamone | Social status pie: The hierarchy game we all play",
+          "LIVE UPDATES: College Green encampment enters day four after Penn organizers meet with Jameson",
+          "With eyes on Gaza Solidarity Encampment, here\u2019s how Penn responded to similar demonstrations",
+          "Donors criticize 'Gaza Solidarity Encampment', request further Penn hate speech regulation"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
