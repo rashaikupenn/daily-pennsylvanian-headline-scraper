@@ -1085,5 +1085,33 @@
         }
       }
     ]
+  ],
+  "2024-4-29": [
+    [
+      "2024-04-29 04:17PM",
+      "Fire marshal searches Penn's pro-Palestinian encampment for fire hazards, alcohol, drugs"
+    ],
+    [
+      "2024-04-29 04:17PM",
+      {
+        "featured_headlines": [
+          "Pro-Israeli rally emphasizes Jewish solidarity, criticizes Gaza Solidarity Encampment",
+          "Petition calling on Penn to not suspend encampment members receives over 1,000 signatures",
+          "The Penn policies and guidelines central to the pro-Palestinian encampment on College Green",
+          "Penn's interim president, provost meet with organizers of pro-Palestinian encampment"
+        ],
+        "recent_headlines": [
+          "Jack Lakis | This is where Penn doesn\u2019t lead the vote",
+          "In Photos: Penn celebrates 2024 Earth Week with panel discussions, tours, and more",
+          "Joseph Houlden | Beyond the Greek letters: A dive into fraternity life at Penn",
+          "Pro-Israeli rally emphasizes Jewish solidarity, criticizes Gaza Solidarity Encampment"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
