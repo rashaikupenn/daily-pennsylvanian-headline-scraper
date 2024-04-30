@@ -1113,5 +1113,33 @@
         }
       }
     ]
+  ],
+  "2024-4-30": [
+    [
+      "2024-04-30 04:17PM",
+      "Penn open expression committee provides 'anticipatory guidance' on demonstrations amid encampment"
+    ],
+    [
+      "2024-04-30 04:17PM",
+      {
+        "featured_headlines": [
+          "In Photos: 100 hours at the Gaza Solidarity Encampment on College Green",
+          "Pro-Israeli rally emphasizes Jewish solidarity, criticizes Gaza Solidarity Encampment",
+          "Petition calling on Penn to not suspend encampment members receives over 1,000 signatures",
+          "The Penn policies and guidelines central to the pro-Palestinian encampment on College Green"
+        ],
+        "recent_headlines": [
+          "Beatriz B\u00e1ez | The doctor will, in fact, not see you now",
+          "Penn opens disciplinary cases for at least three student organizers of Gaza Solidarity Encampment",
+          "In Photos: 100 hours at the Gaza Solidarity Encampment on College Green",
+          "Penn Reproductive Justice holds art exhibition about reproductive inequity"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
