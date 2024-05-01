@@ -1141,5 +1141,33 @@
         }
       }
     ]
+  ],
+  "2024-5-1": [
+    [
+      "2024-05-01 04:20PM",
+      "Penn begins disciplinary proceedings for student organizers of Gaza Solidarity Encampment"
+    ],
+    [
+      "2024-05-01 04:20PM",
+      {
+        "featured_headlines": [
+          "AAUP-Penn alleges admin. threatened to 'clear' encampment Wednesday, calls for new elective body",
+          "In Photos: 100 hours at the Gaza Solidarity Encampment on College Green",
+          "Penn open expression committee provides 'anticipatory guidance' on demonstrations amid encampment",
+          "Petition calling on Penn to not suspend encampment members receives over 1,000 signatures"
+        ],
+        "recent_headlines": [
+          "AAUP-Penn alleges admin. threatened to 'clear' encampment Wednesday, calls for new elective body",
+          "Penn men\u2019s lacrosse freshmen finding impact early in Quaker careers",
+          "Penn Figure Skating Club reflects on growth after placing ninth at national competition",
+          "Hanadi Abdulkadir | How to finish off the spring semester strong"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
