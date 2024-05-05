@@ -1228,5 +1228,28 @@
         ]
       }
     ]
+  ],
+  "2024-5-5": [
+    [
+      "2024-05-05 04:16PM",
+      "Here's where things stand one week since Penn ordered the Gaza Solidarity Encampment to disband"
+    ],
+    [
+      "2024-05-05 04:16PM",
+      {
+        "featured_headlines": [],
+        "recent_headlines": [
+          "Follow all of our coverage of the Gaza Solidarity Encampment on Penn's College Green",
+          "Omonye Osezua | Navigating dual disadvantage",
+          "Penn receives letter from Department of Education condemning antisemitism on campuses nationwide",
+          "Tulia Falleti | The billboard trucks are back"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
