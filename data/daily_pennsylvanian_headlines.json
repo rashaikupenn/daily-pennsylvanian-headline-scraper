@@ -1310,5 +1310,28 @@
         }
       }
     ]
+  ],
+  "2024-5-9": [
+    [
+      "2024-05-09 04:17PM",
+      "Penn places six students on leave of absence due to affiliation with Gaza Solidarity Encampment"
+    ],
+    [
+      "2024-05-09 04:17PM",
+      {
+        "featured_headlines": [
+          "Penn implements 'added security' for 2024 Commencement, removes details about student procession",
+          "Board of advisors of Katz Center for Judaic Studies asks Penn to end encampment to 'restore order'",
+          "Penn seeks discipline against nine encampment members, declines city presence at negotiations",
+          "Students suing Penn over antisemitism response allege 'hostility' from encampment in new filing"
+        ],
+        "recent_headlines": [
+          "Follow all of our coverage of the Gaza Solidarity Encampment on Penn's College Green",
+          "Penn places six students on leave of absence due to affiliation with Gaza Solidarity Encampment",
+          "Penn implements 'added security' for 2024 Commencement, removes details about student procession",
+          "Penn Hillel, buildings around College Green increase security after encampment expansion"
+        ]
+      }
+    ]
   ]
 }
