@@ -1491,5 +1491,33 @@
         }
       }
     ]
+  ],
+  "2024-5-16": [
+    [
+      "2024-05-16 04:17PM",
+      "Police in riot gear arrest 33 protesters, including Penn students, at Gaza Solidarity Encampment"
+    ],
+    [
+      "2024-05-16 04:17PM",
+      {
+        "featured_headlines": [
+          "Faculty Senate chair suddenly resigns, citing Penn\u2019s response to pro-Palestinian encampment",
+          "Penn dismantles Gaza Solidarity Encampment on College Green, disposing of tents, flags, and signs",
+          "Jameson defends arrests of Gaza Solidarity Encampment members, announces College Green closure",
+          "LIVE UPDATES: Nine Penn students arrested during encampment sweep; protesters rally outside president's house"
+        ],
+        "recent_headlines": [
+          "Eashwar Kantemneni | Keeping an open mind",
+          "Penn Sustainability launches new initiative to support 'cleaner and greener' off-campus move-out",
+          "Walden Green | It\u2019s about the cones",
+          "Julia Fischer | Fact-check: \u2018Curiosity killed the cat\u2019"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
