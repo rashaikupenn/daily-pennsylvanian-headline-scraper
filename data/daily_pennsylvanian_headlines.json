@@ -1546,5 +1546,27 @@
         }
       }
     ]
+  ],
+  "2024-5-18": [
+    [
+      "2024-05-18 04:18PM",
+      "Police make 19 arrests after attempted takeover of Fisher-Bennett Hall, prompting protests around Penn campus"
+    ],
+    [
+      "2024-05-18 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "A timeline of arrests, protests after the attempted takeover of Fisher-Bennett Hall",
+          "Police make 19 arrests after attempted takeover of Fisher-Bennett Hall, prompting protests around Penn campus",
+          "LIVE UPDATES: Nineteen Pro-Palestinian activists, including seven Penn students, arrested after attempted occupation of Fisher-Bennett Hall",
+          "Wyatt Henseler leads Penn baseball to 8-4 upset over top-seeded Columbia in Ivy League tournament"
+        ]
+      }
+    ]
   ]
 }
