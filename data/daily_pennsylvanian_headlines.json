@@ -1590,5 +1590,32 @@
         ]
       }
     ]
+  ],
+  "2024-5-20": [
+    [
+      "2024-05-20 04:18PM",
+      "Police make 19 arrests after attempted takeover of Fisher-Bennett Hall, prompting protests around Penn campus"
+    ],
+    [
+      "2024-05-20 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn professor of environmental science selected for Royal Society Fellowship",
+          "Penn baseball suffers loss to Cornell, wins versus Princeton en route to Ivy League Tournament Final",
+          "Students denied entry to College graduation amid discipline over encampment involvement, Penn says",
+          "Philadelphia Graduate Students | A response to the dismantling of the Gaza Solidarity Encampment"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
