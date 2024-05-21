@@ -1617,5 +1617,32 @@
         }
       }
     ]
+  ],
+  "2024-5-21": [
+    [
+      "2024-05-21 04:19PM",
+      "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism"
+    ],
+    [
+      "2024-05-21 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism",
+          "Penn baseball goes 2-0 in final series versus Cornell to repeat as Ivy League champions",
+          "No. 11 Penn women\u2019s rowing places fourth at Ivy League Championships",
+          "Penn professor of environmental science selected for Royal Society Fellowship"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
