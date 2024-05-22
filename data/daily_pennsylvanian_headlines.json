@@ -1644,5 +1644,32 @@
         }
       }
     ]
+  ],
+  "2024-5-22": [
+    [
+      "2024-05-22 04:18PM",
+      "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism"
+    ],
+    [
+      "2024-05-22 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn bans 24 non-affiliates arrested at Gaza Solidarity Encampment from campus",
+          "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism",
+          "Penn baseball goes 2-0 in final series versus Cornell to repeat as Ivy League champions",
+          "No. 11 Penn women\u2019s rowing places fourth at Ivy League Championships"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
