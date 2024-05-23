@@ -1671,5 +1671,33 @@
         }
       }
     ]
+  ],
+  "2024-5-23": [
+    [
+      "2024-05-23 04:19PM",
+      "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism"
+    ],
+    [
+      "2024-05-23 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn celebrates the Class of 2024",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Three former Penn athletes reflect on transferring to use their final years of athletic eligibility",
+          "DP Daybreak | Penn celebrates the Class of 2024",
+          "Penn researchers receive federal grant for AI-powered research on rare disease drug treatments",
+          "In Photos: 2024 Commencement ceremony concludes historic school year"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
