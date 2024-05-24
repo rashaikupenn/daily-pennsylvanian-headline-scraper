@@ -1699,5 +1699,33 @@
         }
       }
     ]
+  ],
+  "2024-5-24": [
+    [
+      "2024-05-24 04:18PM",
+      "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism"
+    ],
+    [
+      "2024-05-24 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn celebrates the Class of 2024",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn announces two new vice provost positions focused on arts, climate change",
+          "Penn music professor receives Pulitzer Prize for \u201canti concerto\u201d saxophone composition",
+          "Penn researchers receive federal grant for AI-powered research on rare disease drug treatments",
+          "Three former Penn athletes reflect on transferring to use their final years of athletic eligibility"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
