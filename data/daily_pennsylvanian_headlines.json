@@ -1839,5 +1839,33 @@
         }
       }
     ]
+  ],
+  "2024-5-29": [
+    [
+      "2024-05-29 04:19PM",
+      "Penn Class of 2024 celebrated at Commencement without incident following weeks of campus activism"
+    ],
+    [
+      "2024-05-29 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn celebrates the Class of 2024",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Jack Lakis | Flipped classrooms aren\u2019t putting the wind in my SAIL",
+          "Penn alumni, donors withdraw support from University following response to campus activism",
+          "Looking ahead to a busy summer in Penn sports",
+          "Penn Medicine partners with Philadelphia Union to open community fridge, combat food insecurity"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
