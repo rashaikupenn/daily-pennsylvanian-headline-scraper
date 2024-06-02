@@ -1941,5 +1941,33 @@
         }
       }
     ]
+  ],
+  "2024-6-2": [
+    [
+      "2024-06-02 04:17PM",
+      "Penn alum, former President Donald Trump convicted on 34 felony counts in historic criminal trial"
+    ],
+    [
+      "2024-06-02 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Investigation upholds allegations against former Penn rowing coach",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Sevda Aghayeva | Sharing a Penn success story",
+          "Penn baseball's season ends in extra-innings loss to St. John's in NCAA Regionals",
+          "Virginia's pitching dominates as Penn baseball falls in the first round of NCAA Regionals, 4-2",
+          "Former Penn president Amy Gutmann to resign as German ambassador, return to U.S."
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
