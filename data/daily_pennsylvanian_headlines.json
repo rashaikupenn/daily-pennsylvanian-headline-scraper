@@ -2089,5 +2089,33 @@
         ]
       }
     ]
+  ],
+  "2024-6-8": [
+    [
+      "2024-06-08 04:17PM",
+      "Penn admin. releases guidance for campus demonstrations, bans encampments"
+    ],
+    [
+      "2024-06-08 04:17PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Task force, Commission reports outline Penn's path forward",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn Police issues six citations for trespass at protest against Ghost Robotics",
+          "A 'true love': Kampton Kam's journey to the top of high jumping",
+          "Big 5 adds Drexel women's basketball program, announces adoption of tournament format",
+          "Mert Kayabas | What do we want out of our first year?"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
