@@ -2278,5 +2278,33 @@
         }
       }
     ]
+  ],
+  "2024-6-15": [
+    [
+      "2024-06-15 04:19PM",
+      "Penn\u2019s temporary open expression guidelines contain contradictions and ambiguities, DP analysis finds"
+    ],
+    [
+      "2024-06-15 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Contradictions in Penn's new open expression policies",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Mason on Chestnut receives Cease Operations Order following multiple Phila. code violations",
+          "2022 graduate Lia Thomas loses legal battle over World Aquatics\u2019 transgender participation rules",
+          "\u2018Blatant violation of the First Amendment\u2019: Civil liberties experts criticize Penn\u2019s new media policy",
+          "Meihuan Yu | Unproductive by design: The last summer before college"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
