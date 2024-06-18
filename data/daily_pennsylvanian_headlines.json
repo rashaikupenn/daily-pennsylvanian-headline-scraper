@@ -2362,5 +2362,33 @@
         }
       }
     ]
+  ],
+  "2024-6-18": [
+    [
+      "2024-06-18 04:19PM",
+      "University administration announces creation of Penn Washington program"
+    ],
+    [
+      "2024-06-18 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Contradictions in Penn's new open expression policies",
+          "DP Daybreak | Guide to 2024 Commencement",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Penn Medicine phases out use of desflurane, a potent greenhouse gas in anesthesia",
+          "Penn professor files amicus brief urging rejection of Trump\u2019s presidential immunity claims",
+          "Penn Medicine researchers develop experimental mRNA vaccine to treat bird flu",
+          "University administration announces creation of Penn Washington program"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
