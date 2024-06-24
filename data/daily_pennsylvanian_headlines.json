@@ -2520,5 +2520,32 @@
         }
       }
     ]
+  ],
+  "2024-6-24": [
+    [
+      "2024-06-24 04:18PM",
+      "Penn Libraries staff file petition to unionize with National Labor Relations Board"
+    ],
+    [
+      "2024-06-24 04:18PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Experts react to Penn's new guidelines",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Trump discusses \u2018out-of-control crime,\u2019 border control at Phila. rally",
+          "Penn Libraries staff file petition to unionize with National Labor Relations Board",
+          "Penn graduates report highest income in Ivy League among financial aid recipients",
+          "Penn women\u2019s rowing head coach Wesley Ng to depart for the University of Virginia"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
