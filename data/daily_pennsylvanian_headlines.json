@@ -2574,5 +2574,32 @@
         }
       }
     ]
+  ],
+  "2024-6-26": [
+    [
+      "2024-06-26 04:21PM",
+      "Penn Libraries staff file petition to unionize with National Labor Relations Board"
+    ],
+    [
+      "2024-06-26 04:21PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Experts react to Penn's new guidelines",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Max Annunziata | These \u2018temporary guidelines\u2019 will hurt our University",
+          "Penn announces Felicia Washington as next vice president of human resources",
+          "Penn alumna Nia Akins qualifies for Paris Olympics in 800m",
+          "Mariana Martinez | I\u2019m just a girl: Of course I need to justify everything I do"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
