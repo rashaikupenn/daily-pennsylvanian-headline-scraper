@@ -2795,5 +2795,33 @@
         }
       }
     ]
+  ],
+  "2024-7-5": [
+    [
+      "2024-07-05 04:19PM",
+      "Penn & Slavery Project receives new funding, looks to expand outreach"
+    ],
+    [
+      "2024-07-05 04:19PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn & Slavery Project looks to future",
+          "DP Daybreak | What happened at the Mason?",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "DP Daybreak | Penn & Slavery Project looks to future",
+          "Penn & Slavery Project receives new funding, looks to expand outreach",
+          "AAUP approves proposal urging Penn faculty pension provider to divest from fossil fuels",
+          "Temple University names Drexel President, former Penn Exec. Vice President John Fry as 15th president"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
