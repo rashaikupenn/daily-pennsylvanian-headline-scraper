@@ -2879,5 +2879,32 @@
         }
       }
     ]
+  ],
+  "2024-7-8": [
+    [
+      "2024-07-08 04:20PM",
+      "Penn & Slavery Project receives new funding, looks to expand outreach"
+    ],
+    [
+      "2024-07-08 04:20PM",
+      {
+        "featured_headlines": [
+          "DP Daybreak | Penn & Slavery Project looks to future",
+          "Quaker Nation | Wrapping up Penn Relays",
+          "Submit your tip confidentially and securely to the DP"
+        ],
+        "recent_headlines": [
+          "Abdulrahman Bindamnan | Penn\u2019s Weingarten Center fails to support writers",
+          "President Biden speaks at Philadelphia church amid attempts to revitalize candidacy",
+          "Guevarra | It\u2019s the perfect time to become a swim fan.",
+          "Two in a row: Penn alumnus Sam Mattis to feature at his second Olympics in the discus throw"
+        ],
+        "social_links": {
+          "facebook": "https://www.facebook.com/dailypenn",
+          "twitter": "https://twitter.com/dailypenn",
+          "instagram": "https://www.instagram.com/dailypenn/"
+        }
+      }
+    ]
   ]
 }
